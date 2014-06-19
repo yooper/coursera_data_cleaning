@@ -1,4 +1,9 @@
-coursera_data_cleaning
+Data Cleaning Project For Student Count 
 ======================
 
-Class project for data cleaning class
+In order to run the run_analysis.R script you will likely need to adjust the JAVA_HOME directory that is set within the script file.
+
+If you want to run the script from scratch use 
+Rscript run_analysis.R
+
+
